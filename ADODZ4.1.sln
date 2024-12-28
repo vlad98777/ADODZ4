@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADODZ4.1", "ADODZ4.1\ADODZ4.1.csproj", "{CE38CCC3-FD3F-41CD-8EE3-030B597DEED3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{CF17F1C8-7EAA-402E-B288-24F9401F2B86}"
+	ProjectSection(SolutionItems) = preProject
+		Script1.js = Script1.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE38CCC3-FD3F-41CD-8EE3-030B597DEED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE38CCC3-FD3F-41CD-8EE3-030B597DEED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE38CCC3-FD3F-41CD-8EE3-030B597DEED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE38CCC3-FD3F-41CD-8EE3-030B597DEED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10BDCB58-9117-490F-9D78-7042CFC504E2}
+	EndGlobalSection
+EndGlobal
